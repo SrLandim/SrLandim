@@ -7,9 +7,9 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrLandim&hide=prs&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=22272e" alt="Juliano Landim github stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SrLandim&hide=prs&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=22272e" alt="Juliano Landim github stats" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrLandim&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=22272e" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrLandim&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=22272e" />
 </div>
 
 <div align="center">
