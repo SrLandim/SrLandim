@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <a href="www.instagram.com/srlandimjuliano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  <a href="https://www.instagram.com/srlandimjuliano/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
   <a href="https://www.linkedin.com/in/juliano-landim-a34517255/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%231D88EB?style=for-the-badge&logo=linkedin&logoColor=white"</a>
   <a href="mailto:juliannojp@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23F65757?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </div>
